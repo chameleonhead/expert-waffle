@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ExpertWaffle.Tickets/ExpertWaffle.Tickets.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ExpertWaffle.Tickets.Tests/ExpertWaffle.Tickets.Tests.csproj" />
+  </Folder>
+</Solution>
